@@ -1,0 +1,75 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:\.DS_Store
+FileLength:6148
+FileModTime:1506597194
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DidotLTStd-Roman
+FamilyName:Didot LT Std
+StyleName:Roman
+MenuName:Didot LT Std
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Didot LT Std Roman
+WritingScript:Roman
+OutlineFileName:\Didot LT Std Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:48796
+FileModTime:1419670556
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FuturaStd-Book
+FamilyName:Futura Std
+StyleName:Book
+MenuName:Futura Std Book
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Futura Std Book
+WritingScript:Roman
+OutlineFileName:\FuturaStd-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:26644
+FileModTime:1164167912
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FuturaStd-Medium
+FamilyName:Futura Std
+StyleName:Medium
+MenuName:Futura Std Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Futura Std Medium
+WritingScript:Roman
+OutlineFileName:\FuturaStd-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:26440
+FileModTime:1164167904
+%EndFont
+

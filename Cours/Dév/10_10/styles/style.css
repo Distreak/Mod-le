@@ -1,0 +1,19 @@
+body{
+  margin:0;
+}
+
+div{
+  background:#c0392b;
+  margin: 50px auto;
+  padding:20px 30px;
+  width:140px;
+}
+
+div p{
+  color:white;
+  margin:0;
+}
+
+p{
+  text-align: center;
+}

@@ -1,0 +1,97 @@
+body{
+  margin: 0;
+  font-size: 14px;
+  font-family: 'Germania One', serif;
+  background-image: url(../images/back.jpg);
+  background-size: cover;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Rye', sans-serif;
+}
+
+.container {
+  width: 1100px;
+  margin: 0 auto;
+}
+.containerB1{
+  width: 550px;
+  padding: 10px;
+  float: left;
+  margin: 10px;
+  background: white;
+}
+}
+.clearBoth {
+  clear: both;
+}
+
+
+/*************
+
+    HEADER
+
+**************/
+
+header#header {
+  background: white;
+  padding: 30px 30px;
+}
+header#header img#gauche{
+  float: left;
+  padding-left: 0;
+  width: 150px;
+}
+header#header img#droite{
+  float: right;
+  padding-left: 0;
+  width: 150px;
+}
+div.siteTitle{
+  float: none;
+  text-align: center;
+}
+header#header h2{
+  font-size: 50px;
+  text-transform: uppercase;
+  color: #c0392b;
+  margin-top: 0;
+}
+header span{
+  font-size: 25px;
+}
+
+/*************
+
+    MAIN
+
+**************/
+
+
+article#premierG h2#PG{
+  float: left;
+}
+  #PG{
+  float: left;
+}
+  article#premierD{
+    width: 440px;
+    height: 500px;
+    padding: 10px;
+    float: right;
+    margin: 10px;
+    background: white;
+  }
+
+article img{
+  float: left;
+  width: 150px;
+}
+  article h2{
+  text-transform: uppercase;
+  color: #c0392b;
+  font-size: 25px;
+  }
+
+  article p{
+  color: #333333
+  }

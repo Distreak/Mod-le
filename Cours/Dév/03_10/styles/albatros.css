@@ -1,0 +1,61 @@
+body{
+  background:#EF9A9A;
+  font-family:"arial"
+  margin:0;
+}
+header{
+  background:#FFAB91;
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 10  px;
+}
+header h2{
+  text-transform: uppercase;
+  font-size: 18px;
+  color:#FF6F00   ;
+}
+header nav{
+  margin-top: 20px;
+  background: #FFE082;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+#pigeon{
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-size: bold;
+    text-decoration: none;
+    text-align: right;
+}
+#oiseau{
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-size: bold;
+    text-decoration: none;
+    text-align: left;
+}
+#albatros{
+  color: #FFFFFF;
+  text-transform: uppercase;
+  font-size: bold;
+  text-decoration: none;
+  text-align: left;
+}
+*{
+  color:#1A237E;
+}
+h1{
+  font-family: 'Chenla', cursive;
+  color:#E65100;
+}
+  h2{
+    font-family: 'Permanent Marker', cursive;
+    color:#E65100;
+  }
+.description{
+  color: black;
+  font-size: bold;
+}
+.derniere{
+  color: #0D47A1;
+}
