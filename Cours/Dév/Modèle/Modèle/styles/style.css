@@ -1,0 +1,25 @@
+*{
+  color : red;
+}
+
+body{
+  background: #999999
+}
+
+div{
+  height: 250px;
+  width: 250px;
+  display: inline-block;
+}
+
+.bleu{
+  background: blue;
+}
+
+.blanc{
+  background: white;
+}
+
+.rouge{
+  background: red;
+}
